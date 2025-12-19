@@ -1,0 +1,59 @@
+Question: What is Python?
+Answer: Python is a high-level programming language that is easy to read and write. It is widely used in data science, artificial intelligence, web development, and automation.
+
+Question: Why is Python popular?
+Answer: Python is popular because it has simple syntax, a large community, and many useful libraries. It allows developers to build applications quickly.
+
+Question: What is a variable?
+Answer: A variable is a container used to store data values in a program. The value of a variable can change during program execution.
+
+Question: What are data types in Python?
+Answer: Data types define the type of data a variable holds. Common data types in Python include int, float, string, and boolean.
+
+Question: What is a loop?
+Answer: A loop is used to repeat a block of code multiple times. Python mainly uses for loops and while loops.
+
+Question: What is a for loop?
+Answer: A for loop is used when the number of iterations is known in advance. It iterates over a sequence such as a list or range.
+
+Question: What is a while loop?
+Answer: A while loop runs as long as a condition remains true. It stops when the condition becomes false.
+
+Question: What is a function?
+Answer: A function is a reusable block of code that performs a specific task. Functions help reduce code duplication and improve readability.
+
+Question: Why are functions important?
+Answer: Functions make programs easier to understand, test, and maintain. They also help organize code into logical sections.
+
+Question: What is a list in Python?
+Answer: A list is a collection of items stored in a single variable. Lists are ordered and can be changed after creation.
+
+Question: What is a tuple?
+Answer: A tuple is similar to a list, but it cannot be changed after creation. Tuples are immutable.
+
+Question: What is a dictionary?
+Answer: A dictionary stores data in key-value pairs. It is useful for fast data lookup using keys.
+
+Question: What is machine learning?
+Answer: Machine learning is a branch of artificial intelligence where systems learn patterns from data and make predictions without being explicitly programmed.
+
+Question: What is supervised learning?
+Answer: Supervised learning is a type of machine learning where models are trained using labeled data. Examples include regression and classification.
+
+Question: What is unsupervised learning?
+Answer: Unsupervised learning finds hidden patterns in unlabeled data. Common techniques include clustering and dimensionality reduction.
+
+Question: What is data science?
+Answer: Data science is the process of analyzing data to extract useful insights using statistics, programming, and machine learning.
+
+Question: What is NumPy?
+Answer: NumPy is a Python library used for numerical computations. It provides support for arrays and mathematical operations.
+
+Question: What is Pandas?
+Answer: Pandas is a Python library used for data manipulation and analysis. It provides data structures like DataFrame and Series.
+
+Question: What is deep learning?
+Answer: Deep learning is a subset of machine learning that uses neural networks with many layers to learn complex patterns.
+
+Question: What is artificial intelligence?
+Answer: Artificial intelligence is the field of creating machines that can perform tasks that normally require human intelligence.

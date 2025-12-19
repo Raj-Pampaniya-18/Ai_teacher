@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Trained model
+teacher_llm.pth
+
+# Tokenizer output
+tokenizer/*.model
+tokenizer/*.vocab
+
+# RAG index
+rag/*.index
+
+# Streamlit cache
+.streamlit/
+
+# OS
+.DS_Store
